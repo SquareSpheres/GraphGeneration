@@ -301,3 +301,9 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.vcxproj
+GraphGeneration.vcxproj.filters
+stdafx.h
+targetver.h
+ReadMe.txt
+stdafx.cpp
